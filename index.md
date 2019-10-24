@@ -38,15 +38,16 @@ Project at Endless Robotics
 [code]({{ site.github_url }}/slam)  
   
 **Image rectification using AprilTags**  
-Project at Endless Robotics
+Project at Endless Robotics  
 [code]({{ site.github_url }}/apriltag_warp)  
 
 ![VIP-ST](assets/img/tonbo1.png){:width="200" style="padding:10px"}
 **Multi object detection and tracking**  
-Project at Tonbo Imaging Pvt. Ltd.
+Project at Tonbo Imaging Pvt. Ltd.  
 [video](https://www.youtube.com/watch?list=PLSstQfZmdaXExyIMN6VM_w0KRleB8weVS&v=Ih7xU9-zGDE)
   
 ![haar-gif](assets/img/haar.gif){:width="200" style="padding:10px"}
 **Head detection using cascaded classifiers**  
+Project at CEERI   
 [code]({{ site.github_url }}/head-detector)  
   
