@@ -34,7 +34,7 @@ Worked on head detection in different poses using cascaded classifiers.
 
 ## Projects
 ![3dmap](assets/img/map.gif){:width="200" style="padding:10px"} **3D map for sparsely featured environments**  
-Project at Endless Robotics
+Project at Endless Robotics    
 [code]({{ site.github_url }}/slam)  
   
 **Image rectification using AprilTags**  
