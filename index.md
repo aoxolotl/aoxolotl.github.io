@@ -32,9 +32,9 @@ Developed application to improve accuracy and cut down time required for camera 
 *Project Assistant, Study Oriented Project* (Jan 2014 - Apr2014)  
 Worked on head detection in different poses using cascaded classifiers.
 ## Publications
-Jain, Kushal, **Adwait Deshpande**, Kumar Shridhar, Felix Laumann, and Ayushman Dash. *"Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages."* Accepted to ML-RSA workshop, NeurIPS 2020 [PDF](https://arxiv.org/pdf/2011.02323). 
+Jain, Kushal, **Adwait Deshpande**, Kumar Shridhar, Felix Laumann, and Ayushman Dash. *"Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages."* Accepted to ML-RSA workshop, NeurIPS 2020 ([PDF](https://arxiv.org/pdf/2011.02323)).
 
-**Deshpande, Adwait** and Ghattamraju, Nischay. *"NERDSearch : Using Familiar Gameplay Mechanicsfor Linguistic Annotation."* Accepted to Wordplay, NeurIPS 2020 [PDF](https://wordplay-workshop.github.io/modern/assets/pdfs/15.pdf)
+**Deshpande, Adwait** and Ghattamraju, Nischay. *"NERDSearch : Using Familiar Gameplay Mechanics for Linguistic Annotation."* Accepted to Wordplay, NeurIPS 2020 ([PDF](https://wordplay-workshop.github.io/modern/assets/pdfs/15.pdf))
 
 ## Projects
 ![sign cluster](assets/img/cluster.gif){:width="200" style="padding:10px"}
