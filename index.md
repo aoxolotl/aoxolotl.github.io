@@ -3,7 +3,7 @@ layout: home
 posts_limit: 0
 ---
 
-I am currently a Senior Software Engineer in the R&D department at *Reverie Language Technologies*, that is letting me explore all that I love about languages and linguistics. I have previously enjoyed working on a range of projects in Computer Vision and Robotics in both industrial and academic setups. 
+I am currently a Technical Lead, R&D at *Reverie Language Technologies*, that is letting me explore all that I love about languages and linguistics. I have previously enjoyed working on a range of projects in Computer Vision and Robotics in both industrial and academic setups. 
 
 I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. Details about my [projects](#projects) and [experience](#experience) below.
 
@@ -31,6 +31,10 @@ Developed application to improve accuracy and cut down time required for camera 
 ![ceerilogo](assets/img/ceeri.png){:width="50" style="padding:5px"} **Central Electronics Engineering Research Institute, Pilani**  
 *Project Assistant, Study Oriented Project* (Jan 2014 - Apr2014)  
 Worked on head detection in different poses using cascaded classifiers.
+## Publications
+Jain, Kushal, **Adwait Deshpande**, Kumar Shridhar, Felix Laumann, and Ayushman Dash. *"Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages."* Accepted to ML-RSA workshop, NeurIPS 2020 [PDF](https://arxiv.org/pdf/2011.02323). 
+
+**Deshpande, Adwait** and Ghattamraju, Nischay. *"NERDSearch : Using Familiar Gameplay Mechanicsfor Linguistic Annotation."* Accepted to Wordplay, NeurIPS 2020 [PDF](https://wordplay-workshop.github.io/modern/assets/pdfs/15.pdf)
 
 ## Projects
 ![sign cluster](assets/img/cluster.gif){:width="200" style="padding:10px"}
