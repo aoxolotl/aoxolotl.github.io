@@ -3,15 +3,15 @@ layout: home
 posts_limit: 0
 ---
 
-I am currently a Technical Lead, R&D at *Reverie Language Technologies*, that is letting me explore all that I love about languages and linguistics. I have previously enjoyed working on a range of projects in Computer Vision and Robotics in both industrial and academic setups. 
+I am currently an MSCS student at Georgia Institute of Technology, pursuing a specialization in Computer Perception and Robotics. I have previously enjoyed working on a range of projects in Computer Vision and Robotics in both industrial and academic setups.
 
 I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. Details about my [projects](#projects) and [experience](#experience) below.
 
 ## Experience
 
 ![revlogo](assets/img/revico.jpeg){:width="50" style="padding:5px"} **Reverie Language Technologies Pvt. Ltd., Bengaluru**  
-*Senior Software Developer, R&D* (July 2019 -)  
-Working on NLP for low corpus Indian Languages to solve problems in digital accesibility.  
+*Technical Lead, R&D* (July 2019 - July 2021)  
+NLP for low corpus Indian Languages to solve problems in digital accesibility.  
 
 ![erlogo](assets/img/er_logo.png){:width="50" style="padding:5px"} **Endless Robotics Pvt. Ltd., Hyderabad**   
 *Computer Vision Engineer / Software Architect* (Aug 2016 – Apr 2019)   
@@ -20,7 +20,7 @@ Also worked on a 3D mapping, image rectification, pattern recognition to help th
 in sparsely featured environments.  
 
 ![tonbologo](assets/img/tonbo.png){:width="50" style="padding:5px"} **Tonbo Imaging Pvt. Ltd., Bengaluru**   
-*Member of Technical Staff* (July 2015 – July 2016)  
+*Member of Technical Staff, R&D* (July 2015 – July 2016)  
 Real-time Multi-object detection and tracking for visible and IR video streams.
 
 ![tonbologo](assets/img/tonbo.png){:width="50" style="padding:5px"} **Tonbo Imaging Pvt. Ltd. Bengaluru**  
