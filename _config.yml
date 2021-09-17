@@ -16,7 +16,7 @@
 title: Adwait Deshpande
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Vision | Robotics | NLP
+  NLP | Computer Vision | Robotics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aoxolotl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aoxolotl
@@ -51,6 +51,9 @@ author:
     - title: GitHub
       url: https://github.com/aoxolotl
       icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/adwait-d/
+      icon: fab fa-linkedin-square
 
 footer_links:
   - title: GitHub
