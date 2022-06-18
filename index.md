@@ -2,10 +2,16 @@
 layout: home
 posts_limit: 0
 ---
+Hello!
 
-I am currently an MSCS student at Georgia Institute of Technology, pursuing a specialization in Computer Perception and Robotics. I have previously enjoyed working on a range of projects in Computer Vision and Robotics in both industrial and academic setups.
+I am an MSCS student at Georgia Institute of Technology, pursuing a specialization in Computer Perception and Robotics. I have previously enjoyed working on a range of projects in Computer Vision, Robotics and Natural Language Proessing in both industrial and academic setups.
 
 I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. Details about my [projects](#projects) and [experience](#experience) below.
+
+## Publications
+Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages [scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7sOrFjQAAAAJ&citation_for_view=7sOrFjQAAAAJ:u5HHmVD_uO8C) [arxiv](https://arxiv.org/abs/2011.02323)
+Kushal Jain•, **Adwait Deshpande**•, Kumar Sridhar, Felix Laumann, Ayushman Dash
+Accepted to the ML-RSA workshop at NeurIPS 2020
 
 ## Experience
 
