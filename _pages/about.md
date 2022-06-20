@@ -20,7 +20,7 @@ __Indic-Transformers: An Analysis of Transformer Language Models for Indian Lang
 Kushal Jain \*, **Adwait Deshpande** \*, Kumar Shridhar, Felix Laumann, and Ayushman Dash\
 Accepted to *ML-RSA workshop, NeurIPS 2020*
 
-__NERDSearch : Using Familiar Gameplay Mechanics for Linguistic Annotation__ [[pdf](https://wordplay-workshop.github.io/modern/assets/pdfs/15.pdf)]\
+__NERDSearch : Using Familiar Gameplay Mechanics for Linguistic Annotation__ [[pdf](https://wordplay-workshop.github.io/wordplay2020/pdfs/15.pdf)]\
 **Adwait Deshpande** and Nischay Ghattamraju\
 Accepted to *Wordplay, NeurIPS 2020*
 
