@@ -51,11 +51,11 @@ Worked on head detection in different poses using cascaded classifiers.
 
 ## Projects
 ![sign cluster](../assets/img/cluster.gif){:width="150" style="padding:10px"}
-**Unsupervised clustering for sign languages** [more]({{ site.github_url }}/sl_cluster)  
+**Unsupervised clustering for sign languages** [more](https://github.com/aoxolotl/sl_cluster)  
 
 ![3dmap](../assets/img/map.gif){:width="150" style="padding:10px"} **3D map for sparsely featured environments**  
 Project at Endless Robotics    
-[code]({{ site.github_url }}/slam)  
+[code](https://github.com/aoxolotl/slam)  
   
 ![VIP-ST](../assets/img/tonbo1.png){:width="150" style="padding:10px"}
 **Multi object detection and tracking**  
@@ -65,9 +65,9 @@ Project at Tonbo Imaging Pvt. Ltd.
 ![haar-gif](../assets/img/haar.gif){:width="150" style="padding:10px"}
 **Head detection using cascaded classifiers**  
 Project at CEERI   
-[code]({{ site.github_url }}/head-detector)  
+[code](https://github.com/aoxolotl/head-detector)  
 
 **Image rectification using AprilTags**  
 Project at Endless Robotics  
-[code]({{ site.github_url }}/apriltag_warp)  
+[code](https://github.com/aoxolotl/apriltag_warp)
 
