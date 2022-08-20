@@ -51,7 +51,7 @@ Worked on head detection in different poses using cascaded classifiers.
 
 ## Projects
 ![sign cluster](../assets/img/cluster.gif){:width="150" style="padding:10px"}
-**Unsupervised clustering for sign languages** [more](https://github.com/aoxolotl/sl_cluster)  
+**Unsupervised clustering for sign languages** [more](https://github.com/aoxolotl/slr)  
 
 ![3dmap](../assets/img/map.gif){:width="150" style="padding:10px"} **3D map for sparsely featured environments**  
 Project at Endless Robotics    
