@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Hello!
-I am a Computer Science Masters student at Georgia Institute of Technology, pursuing a specialization in Computer Perception and Robotics. I have enjoyed working on a range of [projects](#projects) in Natural Language Processing, Computer Vision and Robotics in both industrial and academic setups.
+I am a Masters in Computer Science graduate from Georgia Institute of Technology, with a specialization in Machine Learning. I have enjoyed working on a range of [projects](#projects) in Natural Language Processing, Computer Vision and Robotics in both industrial and academic setups.
 
 I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. 
 
-More details about my [projects](#projects) and [experience](#experience).
+More details about my [publications](#publications), [projects](#projects) and [experience](#experience) below.
 
 ## Publications
 __Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages__ [[arxiv](https://arxiv.org/abs/2011.02323)]\
