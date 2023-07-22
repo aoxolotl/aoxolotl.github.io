@@ -26,9 +26,13 @@ Accepted to *Wordplay, NeurIPS 2020*
 
 ## Experience
 
+![motional](../assets/img/motional.ico){:width="50" style="padding:5px"} **Motional, Pittsburgh, PA**
+_Machine Learning Intern, Prediction_ (May 2022 - Aug 2022)
+R&D for lane-aware and map complian motion prediction models based on Transformers
+
 ![revlogo](../assets/img/revico.jpeg){:width="50" style="padding:5px"} **Reverie Language Technologies Pvt. Ltd., Bengaluru**  
 *Technical Lead, R&D* (July 2019 - July 2021)  
-NLP for low corpus Indian Languages to solve problems in digital accesibility.  
+NLP for low corpus Indian Languages to solve problems in digital accesibility
 
 ![erlogo](../assets/img/er_logo.png){:width="50" style="padding:5px"} **Endless Robotics Pvt. Ltd., Hyderabad**   
 *Computer Vision Engineer / Software Architect* (Aug 2016 – Apr 2019)   
@@ -38,7 +42,7 @@ in sparsely featured environments
 
 ![tonbologo](../assets/img/tonbo.png){:width="50" style="padding:5px"} **Tonbo Imaging Pvt. Ltd., Bengaluru**   
 *Member of Technical Staff, R&D* (July 2015 – July 2016)  
-Real-time Multi-object detection and tracking for visible and IR video streams.
+Real-time Multi-object detection and tracking for visible and IR video streams
 
 ![tonbologo](../assets/img/tonbo.png){:width="50" style="padding:5px"} **Tonbo Imaging Pvt. Ltd. Bengaluru**  
 *Intern* (July 2014 - Dec 2014)   
@@ -47,7 +51,7 @@ Worked on OpenSceneGraph for rendering configurable, realistic video scenes for 
 
 ![ceerilogo](../assets/img/ceeri.png){:width="50" style="padding:5px"} **Central Electronics Engineering Research Institute, Pilani**  
 *Project Assistant, Study Oriented Project* (Jan 2014 - Apr2014)  
-Worked on head detection in different poses using cascaded classifiers.
+Worked on head detection in different poses using cascaded classifiers
 
 ## Projects
 ![sign cluster](../assets/img/cluster.gif){:width="150" style="padding:10px"}
