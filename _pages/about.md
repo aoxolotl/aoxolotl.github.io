@@ -26,8 +26,8 @@ Accepted to *Wordplay, NeurIPS 2020*
 
 ## Experience
 
-![motional](../assets/img/motional.ico){:width="50" style="padding:5px"} **Motional, Pittsburgh, PA**
-_Machine Learning Intern, Prediction_ (May 2022 - Aug 2022)
+![motional](../assets/img/motional.ico){:width="50" style="padding:5px"} **Motional, Pittsburgh, PA**  
+_Machine Learning Intern, Prediction_ (May 2022 - Aug 2022)  
 R&D for lane-aware and map complian motion prediction models based on Transformers
 
 ![revlogo](../assets/img/revico.jpeg){:width="50" style="padding:5px"} **Reverie Language Technologies Pvt. Ltd., Bengaluru**  
