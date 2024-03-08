@@ -16,6 +16,10 @@ I completed my Bachelor's degree in Computer Science from BITS Pilani where I to
 More details about my [publications](#publications), [projects](#projects) and [experience](#experience) below.
 
 ## Publications
+__PBP: Path-based Trajectory Prediction for Autonomous Driving__ [[arxiv](https://arxiv.org/abs/2309.03750)]\
+Sepideh Afshar, Akshay Bhagat, Nachiket Deo, Titas Chakraborty, Balarama Raju Buddharaju, **Adwait Deshpande**, Henggang Cui\
+Accepted to *ICRA 2022*
+
 __Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages__ [[arxiv](https://arxiv.org/abs/2011.02323)]\
 Kushal Jain \*, **Adwait Deshpande** \*, Kumar Shridhar, Felix Laumann, and Ayushman Dash\
 Accepted to *ML-RSA workshop, NeurIPS 2020*
@@ -25,6 +29,10 @@ __NERDSearch : Using Familiar Gameplay Mechanics for Linguistic Annotation__ [[p
 Accepted to *Wordplay, NeurIPS 2020*
 
 ## Experience
+![georgiatech](../assets/img/gt.ico){:width="50" style="padding:5px"} **GeorgiaTech, Atlanta, GA**
+_Research Scientist II, AI-CARING_
+Developing state-of-the-art activity recognition for smart homes to assist the elderly in daily living
+[Link](https://www.ai-caring.org/)
 
 ![motional](../assets/img/motional.ico){:width="50" style="padding:5px"} **Motional, Pittsburgh, PA**  
 _Machine Learning Intern, Prediction_ (May 2022 - Aug 2022)  
