@@ -30,8 +30,8 @@ Accepted to *Wordplay, NeurIPS 2020*
 
 ## Experience
 ![georgiatech](../assets/img/gt.ico){:width="50" style="padding:5px"} **GeorgiaTech, Atlanta, GA**  
-_Research Scientist II, AI-CARING_
-Developing state-of-the-art activity recognition for smart homes to assist the elderly in daily living
+_Research Scientist II, AI-CARING_ (Aug 2023 - Present)  
+Developing state-of-the-art activity recognition for smart homes to assist the elderly in daily living  
 [Link](https://www.ai-caring.org/)
 
 ![motional](../assets/img/motional.ico){:width="50" style="padding:5px"} **Motional, Pittsburgh, PA**  
