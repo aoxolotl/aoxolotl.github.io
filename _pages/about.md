@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hello!
-I am a Masters in Computer Science graduate from Georgia Institute of Technology, with a specialization in Machine Learning. I have enjoyed working on a range of [projects](#projects) in Natural Language Processing, Computer Vision and Robotics in both industrial and academic setups.
+I am a Research Scientist at Georgia Institute of Technology working on Activity Recognition using Machine Learning. I have enjoyed working on a range of [projects](#projects) in Natural Language Processing, Computer Vision and Robotics in both industrial and academic setups.
 
-I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. 
+I graduated with a Masters in Computer Science from GeorgiaTech where I specialized in Machine Learning, NLP and CV. I completed my Bachelor's degree in Computer Science from BITS Pilani where I took up courses and projects related to Pattern Recognition, Machine Learning and Computer Graphics. Through my interships and work, I have had the opportunity to implement projects in these fields. 
 
 More details about my [publications](#publications), [projects](#projects) and [experience](#experience) below.
 
